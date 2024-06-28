@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmfelix02
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Java at FIU
+- 🌱 I’m currently studying at FIU
 - 💞️ I’m looking to collaborate on some basic projects
 - 📫 How to reach me: 
 
