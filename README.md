@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lmfelix02
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently studying at FIU
-- 💞️ I’m looking to collaborate on some basic projects
+-  I’m interested in learning new skills
+-  I’m currently studying at FIU
+-  I’m looking to collaborate on some basic projects
 - 📫 How to reach me: Lmfelix02@gmail.com
 
 <!---
